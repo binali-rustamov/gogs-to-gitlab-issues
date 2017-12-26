@@ -1,0 +1,14 @@
+{
+  "name": "gogs-to-gitlab-issues",
+  "version": "1.0.0",
+  "description": "Issues migration script",
+  "main": "index.js",
+  "repository": "git@github.com:binali-rustamov/gogs-to-gitlab-issues.git",
+  "author": "Binali Rustamov <binali@rustamov.me>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "gitlab": "^1.7.1",
+    "mysql": "^2.15.0"
+  }
+}

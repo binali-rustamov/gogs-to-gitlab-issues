@@ -1,0 +1,15 @@
+{
+  "gitlab": {
+    "url": "",
+    "token": ""
+  },
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "root",
+    "database": "gogs"
+  },
+  "mappings": {
+    "infrastructure": "root/test"
+  }
+}
